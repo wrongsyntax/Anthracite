@@ -1,0 +1,82 @@
+
+:root {
+  --dark-shade0: rgb(41, 44, 51);
+  --dark-shade0-r: 41;
+  --dark-shade0-g: 44;
+  --dark-shade0-b: 51;
+
+  --dark-shade1: rgb(30, 33, 38);
+  --dark-shade1-r: 30;
+  --dark-shade1-g: 33;
+  --dark-shade1-b: 38;
+
+  --dark-shade2: rgb(30, 33, 38);
+  --dark-shade2-r: 30;
+  --dark-shade2-g: 33;
+  --dark-shade2-b: 38;
+
+  --dark-shade3: rgb(11, 165, 106);
+  --dark-shade3-r: 11;
+  --dark-shade3-g: 165;
+  --dark-shade3-b: 106;
+
+  --dark-shade4: rgb(195, 195, 195);
+  --dark-shade4-r: 195;
+  --dark-shade4-g: 195;
+  --dark-shade4-b: 195;
+
+  --dark-shade5: rgb(195, 195, 195);
+  --dark-shade5-r: 195;
+  --dark-shade5-g: 195;
+  --dark-shade5-b: 195;
+
+  --dark-shade6: rgb(235, 219, 178);
+  --dark-shade6-r: 235;
+  --dark-shade6-g: 219;
+  --dark-shade6-b: 178;
+
+  --dark-shade7: rgb(195, 195, 195);
+  --dark-shade7-r: 195;
+  --dark-shade7-g: 195;
+  --dark-shade7-b: 195;
+
+  --dark-accent0: rgb(204, 36, 29);
+  --dark-accent0-r: 204;
+  --dark-accent0-g: 36;
+  --dark-accent0-b: 29;
+
+  --dark-accent1: rgb(195, 195, 195);
+  --dark-accent1-r: 195;
+  --dark-accent1-g: 195;
+  --dark-accent1-b: 195;
+
+  --dark-accent2: rgb(215, 153, 33);
+  --dark-accent2-r: 215;
+  --dark-accent2-g: 153;
+  --dark-accent2-b: 33;
+
+  --dark-accent3: rgb(113, 152, 26);
+  --dark-accent3-r: 113;
+  --dark-accent3-g: 152;
+  --dark-accent3-b: 26;
+
+  --dark-accent4: rgb(104, 157, 106);
+  --dark-accent4-r: 104;
+  --dark-accent4-g: 157;
+  --dark-accent4-b: 106;
+
+  --dark-accent5: rgb(69, 133, 136);
+  --dark-accent5-r: 69;
+  --dark-accent5-g: 133;
+  --dark-accent5-b: 136;
+
+  --dark-accent6: rgb(21, 209, 134);
+  --dark-accent6-r: 21;
+  --dark-accent6-g: 209;
+  --dark-accent6-b: 134;
+
+  --dark-accent7: rgb(184, 99, 147);
+  --dark-accent7-r: 184;
+  --dark-accent7-g: 99;
+  --dark-accent7-b: 147;
+}
