@@ -1,1 +1,1 @@
-![AnthracitGuide](https://user-images.githubusercontent.com/29494694/112774242-48245700-8ff6-11eb-9f12-965ba5538370.png)
+![AnthraciteGuideImg](https://user-images.githubusercontent.com/29494694/112774491-1bbd0a80-8ff7-11eb-92c3-49754eaf8bd1.png)
